@@ -1,17 +1,20 @@
 {
-  "name": "to-b",
+  "name": "try-b",
   "description": "demo for npm",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chenghuijie/to-b.git"
+    "url": "git@github.com:chenghuijie/try-b.git"
   },
   "author": "chenghuijie",
   "license": "MIT",
-  "homepage": "https://github.com/chenghuijie/to-b",
+  "homepage": "https://github.com/chenghuijie/try-b",
   "bugs": {
-    "url": "https://github.com/chenghuijie/to-b/issues"
+    "url": "https://github.com/chenghuijie/try-b/issues"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "try-a": "2",
+    "try-C": "2"
+  },
   "version": "0.0.0"
 }
