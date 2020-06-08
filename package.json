@@ -14,7 +14,7 @@
   "main": "index.js",
   "dependencies": {
     "try-a": "2",
-    "try-C": "2"
+    "try-3": "2"
   },
   "version": "0.0.0"
 }
