@@ -1,2 +1,2 @@
 # to-b
-demo for npm
+npm: <https://www.npmjs.com/package/to-b>

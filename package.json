@@ -1,0 +1,17 @@
+{
+  "name": "to-b",
+  "description": "demo for npm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chenghuijie/to-b.git"
+  },
+  "author": "chenghuijie",
+  "license": "MIT",
+  "homepage": "https://github.com/chenghuijie/to-b",
+  "bugs": {
+    "url": "https://github.com/chenghuijie/to-b/issues"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "version": "0.0.0"
+}
